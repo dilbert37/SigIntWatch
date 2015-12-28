@@ -9,6 +9,7 @@ Data Capture
   Analog
   PWM
   Jtag
+  Eathernet?
 
 Data Output
   
